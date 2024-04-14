@@ -1,0 +1,12 @@
+setup.py
+src/MovableImage.py
+src/__init__.py
+src/eelmap_db.py
+src/fetch_data.py
+src/rotating_image.py
+src.egg-info/PKG-INFO
+src.egg-info/SOURCES.txt
+src.egg-info/dependency_links.txt
+src.egg-info/top_level.txt
+tests/test.py
+tests/test2.py
