@@ -36,3 +36,7 @@ For help or assistance with Aal-Go, please contact lehmanner@gmail.com.
 # License
 
 Aal-Go is licensed under the Unlicense License.
+
+# missing data folder
+
+The data folder is missing because the data I used belongs to the "Institut für angewandte Ökologie" and is not mine to share.
