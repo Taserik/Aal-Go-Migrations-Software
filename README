@@ -1,2 +1,0 @@
-Die Rohdaten werden zunächst vom Programm in einen Dataframe geschrieben, wobei eine Spaltenbeschriftung und eine Dateityp-Zuordnung stattfindet. Das Datum wird als Serial Number mit dem Datentyp \texttt{float} abgelegt, während die Aal-ID als \texttt{str} gespeichert wird.
-Es wurden zwei Algorithmen angewandt, um die Daten von Noise zu bereinigen. Der erste Algorithmus wird durch das Python Modul \texttt{datetime} aufgerufen. Dieser nimmt ein Datum
